@@ -3,7 +3,7 @@ This repository will provide a custom implementation of the k-concurrent communi
 
 A user who will be using this script should be able to use one of the classic QUBO solvers (such as QBSolv), or directly use the D-Wave Ocean API to submit the locally computed parameters of the QUBO problem to the DW-2000Q.
 
-The reason for the creation of this repository is research study on quantum community detection performed by student Sotiris Karavarsamis (Interfaculty graduate study program on Complex Systems and Networks, Aristotle University of Thessaloniki, Greece). This repository, in part, aims at reproducing the experiments reported in Negre et al and at tinkering with the Newman modularity maximizing hypernode forumation that is discussed in the paper.
+The reason for the creation of this repository is research study on quantum community detection performed by student Sotiris Karavarsamis (Interfaculty graduate study program on Complex Systems and Networks, Aristotle University of Thessaloniki, Greece). This repository, in part, aims at reproducing the experiments reported in Negre et al. and at tinkering with the Newman modularity maximizing hypernode forumation that is discussed.
 
 Code will be committed to the repository very soon!
 
