@@ -7,4 +7,7 @@ The reason for the creation of this repository is research study on quantum comm
 
 Code will be committed to the repository very soon!
 
+# Note
+This is not an official implementation, but a third-party implementation offered publicly.
+
 Need to make contact with me? Please send an e-mail at sotikara@econ.auth.gr.
