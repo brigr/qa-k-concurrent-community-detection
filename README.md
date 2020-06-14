@@ -10,4 +10,4 @@ Code will be committed to the repository very soon!
 # Note
 This is not an official implementation, but a third-party implementation offered publicly.
 
-Need to make contact with me? Please send an e-mail at sotikara@econ.auth.gr.
+Need to make contact with me about this repository? Please send an e-mail at sotikara@econ.auth.gr.
