@@ -5,6 +5,6 @@ A user who will be using this script should be able to use one of the classic QU
 
 The reason for the creation of this repository is research study on quantum community detection performed by student Sotiris Karavarsamis (Interfaculty graduate study program on Complex Systems and Networks, Aristotle University of Thessaloniki, Greece). This repository, in part, aims at reproducing the experiments reported in Negre et al.
 
-Code will be published very soon!
+Code will be committed to the repository very soon!
 
-Need to make contact? Please e-mail me at sotikara@econ.auth.gr.
+Need to make contact with me? Please send an e-mail at sotikara@econ.auth.gr.
